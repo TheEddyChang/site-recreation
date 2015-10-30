@@ -47,12 +47,15 @@ p {
 .footer {
 	background-color: grey;
     color: white;
+    padding-left: 320px;
 }
 
 
 .dropdown {
-	margin-top: 20px;
+	margin: 20px;
+	position: fixed;
 }
+
 
 
 
